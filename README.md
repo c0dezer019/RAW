@@ -25,5 +25,11 @@ releases for their favorite series, and even buy books in various formats.
 - As a reader, I want my own account to customize my content and use my account cross-platform.
 - As a reader, I want to set custom alerts for a variety of things such as new additions to a 
   series, new blog posts, or any new series.
-- As a reader, I want to have different watchlists.
+- As a reader, I want to have different watchlists for varying alerts.
 - As a reader, when I open up the app for the first time, I want to see 
+- As a reader, I want published authors to the main focus of the app.
+- As an author, I want to create a verified account so that I may share my own works.
+- As an author, I want to be able to connect with fellow fans.
+- As an author, I want to post new publications and newly published works.
+- As an author, I want to push updates on upcoming publications, so that my readers can stay 
+  up-to-date on the latest.
